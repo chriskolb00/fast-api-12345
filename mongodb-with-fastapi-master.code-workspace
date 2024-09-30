@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "mongodb-with-fastapi-master",
+			"path": "."
+		},
+		{
+			"name": "fast-api-app",
+			"path": "../../Documents/dev/fast-api-app"
+		}
+	],
+	"settings": {}
+}
